@@ -1,2 +1,2 @@
 const test = 'this is codog';
-const test2 = '';
+const yes = 0;
